@@ -1,0 +1,39 @@
+Body {
+  font-family: "Oxygen", sans-serif;
+}
+.container-fluid {
+  padding: 3% 15% 8%;
+}
+#title {
+  background-color: #0c4160;
+  color: #fff;
+  padding: 0 0 0 7%;
+}
+/*Header*/
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Oxygen";
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+.TextBar {
+  padding-right: 4%;
+}
+/*Call to arms section*/
+.CTA {
+  font-size: 30px;
+  color: aquamarine;
+  padding-bottom: 4%;
+}
+
+.headShot {
+  width: 300px;
+  height: 300px;
+}
