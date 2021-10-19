@@ -12,6 +12,11 @@ h1 {
   color: #fff;
   padding: 0 0 0 7%;
 }
+
+#startpic {
+  height: 750px;
+  width: 1125px;
+}
 /*Header*/
 
 .navbar {
@@ -32,6 +37,10 @@ h1 {
 
 .Start-episode {
   padding: 3% 55%;
+}
+
+#content {
+  padding-top: 4%;
 }
 /*Call to arms section*/
 .CTA {
